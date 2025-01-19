@@ -166,7 +166,3 @@ curl -X POST http://127.0.0.1:5000/houses \
 ## **License**  
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it while respecting the terms of the license.  
-
----  
-
-This README is tailored for clarity and usability while being structured differently to maintain originality.
